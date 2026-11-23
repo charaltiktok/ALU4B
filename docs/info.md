@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This ALU performs four ARITHMETIC operations in binary
 
 ## How to test
 
-Explain how to use your project
+on the bidirectional bus, put a code
 
 ## External hardware
 
